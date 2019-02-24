@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\list.o
+./release\search.o
+./release\pic.o
+./release\qrc_resource.o
+./release\moc_widget.o
+./release\moc_list.o
+./release\moc_search.o
+./release\moc_pic.o
+);
